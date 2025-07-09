@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Indiranagar",
+    "city": "Bangalore",
+    "safety": 4,
+    "greenery": 3,
+    "nightlife": "high",
+    "transport": 5,
+    "rent": 28000
+  },
+  {
+    "name": "Kothrud",
+    "city": "Pune",
+    "safety": 5,
+    "greenery": 4,
+    "nightlife": "medium",
+    "transport": 4,
+    "rent": 20000
+  },
+  {
+    "name": "Powai",
+    "city": "Mumbai",
+    "safety": 4,
+    "greenery": 3,
+    "nightlife": "high",
+    "transport": 5,
+    "rent": 45000
+  }
+]
